@@ -6,11 +6,11 @@ Let the battle begin!
 
 The battle will be between <b>Orderus</b> and <b>Wild beast</b>
 
-Orderus learned <b>rapid strike</b>
-Rapid strike: Strike twice while it’s his turn to attack; there’s a 10% chance he’ll use this skill every time he attacks.
+Orderus learned <b>rapid strike</b><br>
+<b>Rapid strike</b>: Strike twice while it’s his turn to attack; there’s a 10% chance he’ll use this skill every time he attacks.
 
-Orderus learned <b>magic shield</b>
-Magic shield: Takes only half of the usual damage when an enemy attacks; there’s a 20% change he’ll use this skill every time he defends.
+Orderus learned <b>magic shield</b><br>
+<b>Magic shield</b>: Takes only half of the usual damage when an enemy attacks; there’s a 20% change he’ll use this skill every time he defends.
 
 Striker: <b>Wild beast</b><br>
 attacks with the damage: <b>33</b><br>
